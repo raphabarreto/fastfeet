@@ -61,7 +61,8 @@
 1. Entre na pasta `frontend`;
 
 2. Execute `yarn install` para instalar todas as dependências;
-3. Execute `yarn start` para inicializar a aplicação
+3. Execute `yarn start` para inicializar a aplicação;
+4. Para logar na aplicação use as seguintes credenciais: ``admin@fastfeet.com e senha 123456``
 
 # 💻 Mobile
 ### ``Somente android``
